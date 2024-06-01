@@ -20,11 +20,11 @@ L[0] = 12
 print(L)            # [12, 17, 26, 35, 20]
 print(id(L))        # 2816931582336
 
-'''
+"""
 Classes de objetos Imutáveis
 int, float, complex, bool
 string, tuple, range, frozenset, bytes
 
 Classes de objetos Mutáveis
 lis, set, dict, bytearray
-'''
+"""
