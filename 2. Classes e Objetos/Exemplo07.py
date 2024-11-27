@@ -1,4 +1,6 @@
 # Objeto Imutável
+# Depois de criado, se alterado o conteúdo, o objeto antigo é descartado e um novo objeto é criado
+# Os conteúdos do objeto não podem ser alterados após serem criados
 # A alteração de conteúdo implica na alteração do id
 obj1 = 8
 print(id(obj1))     # 140714827782808
@@ -6,6 +8,7 @@ obj1 = 12
 print(id(obj1))     # 140714827782936
 
 # Objeto Mutável
+# Depois de criado, o conteúdo do objeto pode ser alterado sem a substituição por outro objeto
 # A alteração de conteúdo ocorre sem a alteração do id
 # L é uma lista: uma coleção de objetos
 L = [44, 17, 26, 35, 20]
