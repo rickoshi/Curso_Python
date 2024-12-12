@@ -1,4 +1,3 @@
-
 # A leitura sempre resulta em uma cadeia de caracteres (string) carregada no objeto de destino.
 # Se forem digitados apenas algarismos, ainda assim a leitura resulta em uma cadeia de caracteres.
 
