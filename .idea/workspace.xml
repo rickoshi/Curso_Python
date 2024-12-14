@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Condições compostas mistas">
-      <change afterPath="$PROJECT_DIR$/04. Comando condicional/Cap04_Exemplo05.py" afterDir="false" />
+    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Comando condicional - forma completa">
+      <change afterPath="$PROJECT_DIR$/04. Comando condicional/Cap04_Exemplo06.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734147543363</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Comando condicional - forma completa">
+      <option name="closed" value="true" />
+      <created>1734149237858</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1734149237858</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,6 +150,7 @@
     <MESSAGE value="Comando condicional - conceito" />
     <MESSAGE value="Condições simples" />
     <MESSAGE value="Condições compostas mistas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Condições compostas mistas" />
+    <MESSAGE value="Comando condicional - forma completa" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comando condicional - forma completa" />
   </component>
 </project>
