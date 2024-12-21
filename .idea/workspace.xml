@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Comandos condicionais aninhados">
-      <change afterPath="$PROJECT_DIR$/04. Comando condicional/Cap04_ExercicioProposto01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Exercício Resolvido 4.1">
+      <change afterPath="$PROJECT_DIR$/04. Comando condicional/Cap04_ExercicioResolvido02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,22 +33,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Cap04_Exemplo01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap04_Exemplo02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap04_Exemplo03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap04_Exemplo04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap04_Exemplo05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap04_Exemplo06.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exemplo02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exemplo08.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;L:/PycharmProjects/Curso_Python&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Cap04_Exemplo01.executor": "Run",
+    "Python.Cap04_Exemplo02.executor": "Run",
+    "Python.Cap04_Exemplo03.executor": "Run",
+    "Python.Cap04_Exemplo04.executor": "Run",
+    "Python.Cap04_Exemplo05.executor": "Run",
+    "Python.Cap04_Exemplo06.executor": "Run",
+    "Python.Cap04_ExercicioProposto01.executor": "Run",
+    "Python.Exemplo02.executor": "Run",
+    "Python.Exemplo08.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "L:/PycharmProjects/Curso_Python"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -138,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734150036330</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Exercício Resolvido 4.1">
+      <option name="closed" value="true" />
+      <created>1734740673551</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1734740673551</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,6 +169,7 @@
     <MESSAGE value="Condições compostas mistas" />
     <MESSAGE value="Comando condicional - forma completa" />
     <MESSAGE value="Comandos condicionais aninhados" />
-    <option name="LAST_COMMIT_MESSAGE" value="Comandos condicionais aninhados" />
+    <MESSAGE value="Exercício Resolvido 4.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício Resolvido 4.1" />
   </component>
 </project>
