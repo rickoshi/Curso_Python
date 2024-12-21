@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Laço com comando continue">
-      <change afterPath="$PROJECT_DIR$/05. Comandos de Repetição/Cap05_Exemplo03.py" afterDir="false" />
+    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Laço com comando break">
+      <change afterPath="$PROJECT_DIR$/05. Comandos de Repetição/Cap05_Exemplo04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,7 @@
     "Python.Cap05_Exemplo01.executor": "Run",
     "Python.Cap05_Exemplo02.executor": "Run",
     "Python.Cap05_Exemplo03.executor": "Run",
+    "Python.Cap05_Exemplo04.executor": "Run",
     "Python.Exemplo02.executor": "Run",
     "Python.Exemplo08.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -192,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734744380421</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Laço com comando break">
+      <option name="closed" value="true" />
+      <created>1734744746894</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1734744746894</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,6 +231,7 @@
     <MESSAGE value="Exercício Resolvido 4.4" />
     <MESSAGE value="Comando de laço" />
     <MESSAGE value="Laço com comando continue" />
-    <option name="LAST_COMMIT_MESSAGE" value="Laço com comando continue" />
+    <MESSAGE value="Laço com comando break" />
+    <option name="LAST_COMMIT_MESSAGE" value="Laço com comando break" />
   </component>
 </project>
