@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Laço com comando break">
-      <change afterPath="$PROJECT_DIR$/05. Comandos de Repetição/Cap05_Exemplo04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Cláusula else do comando while">
+      <change afterPath="$PROJECT_DIR$/05. Comandos de Repetição/Cap05_ExercicioResolvido01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +49,7 @@
     "Python.Cap05_Exemplo02.executor": "Run",
     "Python.Cap05_Exemplo03.executor": "Run",
     "Python.Cap05_Exemplo04.executor": "Run",
+    "Python.Cap05_ExercicioResolvido01.executor": "Run",
     "Python.Exemplo02.executor": "Run",
     "Python.Exemplo08.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -202,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734744746894</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Cláusula else do comando while">
+      <option name="closed" value="true" />
+      <created>1734745317485</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1734745317485</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,6 +240,7 @@
     <MESSAGE value="Comando de laço" />
     <MESSAGE value="Laço com comando continue" />
     <MESSAGE value="Laço com comando break" />
-    <option name="LAST_COMMIT_MESSAGE" value="Laço com comando break" />
+    <MESSAGE value="Cláusula else do comando while" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cláusula else do comando while" />
   </component>
 </project>
