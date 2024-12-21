@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Exercício Resolvido 4.2">
-      <change afterPath="$PROJECT_DIR$/04. Comando condicional/Cap04_ExercicioResolvido03.py" afterDir="false" />
+    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Exercício Resolvido 4.3">
+      <change afterPath="$PROJECT_DIR$/04. Comando condicional/Cap04_ExercicioResolvido04.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +45,7 @@
     "Python.Cap04_ExercicioProposto01.executor": "Run",
     "Python.Cap04_ExercicioResolvido02.executor": "Run",
     "Python.Cap04_ExercicioResolvido03.executor": "Run",
+    "Python.Cap04_ExercicioResolvido04.executor": "Run",
     "Python.Exemplo02.executor": "Run",
     "Python.Exemplo08.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -157,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734740920397</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Exercício Resolvido 4.3">
+      <option name="closed" value="true" />
+      <created>1734741615773</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1734741615773</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +191,7 @@
     <MESSAGE value="Comandos condicionais aninhados" />
     <MESSAGE value="Exercício Resolvido 4.1" />
     <MESSAGE value="Exercício Resolvido 4.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercício Resolvido 4.2" />
+    <MESSAGE value="Exercício Resolvido 4.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício Resolvido 4.3" />
   </component>
 </project>
