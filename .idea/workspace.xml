@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Exercício Resolvido 5.2">
-      <change afterPath="$PROJECT_DIR$/05. Comandos de Repetição/Cap05_ExercicioResolvido03.py" afterDir="false" />
+    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Exercício Resolvido 5.3">
+      <change afterPath="$PROJECT_DIR$/05. Comandos de Repetição/Cap05_ExercicioResolvido04.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,7 +228,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734746041489</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Exercício Resolvido 5.3">
+      <option name="closed" value="true" />
+      <created>1734746457215</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1734746457215</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,6 +269,7 @@
     <MESSAGE value="Cláusula else do comando while" />
     <MESSAGE value="Exercício Resolvido 5.1" />
     <MESSAGE value="Exercício Resolvido 5.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercício Resolvido 5.2" />
+    <MESSAGE value="Exercício Resolvido 5.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício Resolvido 5.3" />
   </component>
 </project>
