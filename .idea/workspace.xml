@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Exercício Resolvido 5.4">
-      <change afterPath="$PROJECT_DIR$/05. Comandos de Repetição/Cap05_ExercicioResolvido05.py" afterDir="false" />
+    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Exercício Resolvido 5.5">
+      <change afterPath="$PROJECT_DIR$/06. Tratamento de Exceções/Cap06_Exemplo01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +55,7 @@
     "Python.Cap05_ExercicioResolvido03.executor": "Run",
     "Python.Cap05_ExercicioResolvido04.executor": "Run",
     "Python.Cap05_ExercicioResolvido05.executor": "Run",
+    "Python.Cap06_Exemplo01.executor": "Run",
     "Python.Exemplo02.executor": "Run",
     "Python.Exemplo08.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -247,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734746875055</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Exercício Resolvido 5.5">
+      <option name="closed" value="true" />
+      <created>1734747516113</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1734747516113</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -282,6 +291,7 @@
     <MESSAGE value="Exercício Resolvido 5.2" />
     <MESSAGE value="Exercício Resolvido 5.3" />
     <MESSAGE value="Exercício Resolvido 5.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercício Resolvido 5.4" />
+    <MESSAGE value="Exercício Resolvido 5.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício Resolvido 5.5" />
   </component>
 </project>
