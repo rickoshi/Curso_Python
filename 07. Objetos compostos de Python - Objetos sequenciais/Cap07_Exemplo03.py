@@ -16,4 +16,3 @@ L.append(3.88)
 L.append(17.5)
 print(L)                # [3.88, 17.5]
 print(type(L[0]))       # <class 'float'>
-
