@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Fatiamento de listas">
-      <change afterPath="$PROJECT_DIR$/07. Objetos compostos de Python - Objetos sequenciais/Cap07_Exemplo09.py" afterDir="false" />
+    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Cópia de lista usando fatiamento">
+      <change afterPath="$PROJECT_DIR$/07. Objetos compostos de Python - Objetos sequenciais/Cap07_Exemplo10.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +68,7 @@
     "Python.Cap07_Exemplo07.executor": "Run",
     "Python.Cap07_Exemplo08.executor": "Run",
     "Python.Cap07_Exemplo09.executor": "Run",
+    "Python.Cap07_Exemplo10.executor": "Run",
     "Python.Exemplo02.executor": "Run",
     "Python.Exemplo08.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -372,7 +373,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734922884593</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Cópia de lista usando fatiamento">
+      <option name="closed" value="true" />
+      <created>1734923780236</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1734923780236</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -387,7 +396,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Exercício Resolvido 4.1" />
     <MESSAGE value="Exercício Resolvido 4.2" />
     <MESSAGE value="Exercício Resolvido 4.3" />
     <MESSAGE value="Exercício Resolvido 4.4" />
@@ -412,6 +420,7 @@
     <MESSAGE value="Indexação fora dos limites" />
     <MESSAGE value="Eliminação de elementos usando a função del" />
     <MESSAGE value="Fatiamento de listas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fatiamento de listas" />
+    <MESSAGE value="Cópia de lista usando fatiamento" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cópia de lista usando fatiamento" />
   </component>
 </project>
