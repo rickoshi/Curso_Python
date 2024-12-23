@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Exercício resolvido 7.4">
-      <change afterPath="$PROJECT_DIR$/07. Objetos compostos de Python - Objetos sequenciais/Cap07_ExercicioResolvido05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Exercício resolvido 7.5">
+      <change afterPath="$PROJECT_DIR$/07. Objetos compostos de Python - Objetos sequenciais/Cap07_ExercicioResolvido06.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +77,7 @@
     "Python.Cap07_ExercicioResolvido02.executor": "Run",
     "Python.Cap07_ExercicioResolvido03.executor": "Run",
     "Python.Cap07_ExercicioResolvido05.executor": "Run",
+    "Python.Cap07_ExercicioResolvido06.executor": "Run",
     "Python.Exemplo02.executor": "Run",
     "Python.Exemplo08.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -470,7 +470,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734996025595</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Exercício resolvido 7.5">
+      <option name="closed" value="true" />
+      <created>1734997557743</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1734997557743</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -485,7 +493,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Exercício Resolvido 5.4" />
     <MESSAGE value="Exercício Resolvido 5.5" />
     <MESSAGE value="Erro da classe ValueError" />
     <MESSAGE value="Erro da classe IndexError" />
@@ -510,6 +517,7 @@
     <MESSAGE value="Multiplicação com &quot;*&quot;" />
     <MESSAGE value="Iterações em listas com o comando for - Exercício resolvido 7.3" />
     <MESSAGE value="Exercício resolvido 7.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercício resolvido 7.4" />
+    <MESSAGE value="Exercício resolvido 7.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício resolvido 7.5" />
   </component>
 </project>
