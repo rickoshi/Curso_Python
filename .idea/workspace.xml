@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Cópia de lista usando fatiamento">
-      <change afterPath="$PROJECT_DIR$/07. Objetos compostos de Python - Objetos sequenciais/Cap07_Exemplo10.py" afterDir="false" />
+    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Operador in">
+      <change afterPath="$PROJECT_DIR$/07. Objetos compostos de Python - Objetos sequenciais/Cap07_ExercicioResolvido01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +69,8 @@
     "Python.Cap07_Exemplo08.executor": "Run",
     "Python.Cap07_Exemplo09.executor": "Run",
     "Python.Cap07_Exemplo10.executor": "Run",
+    "Python.Cap07_Exemplo11.executor": "Run",
+    "Python.Cap07_ExercicioResolvido01.executor": "Run",
     "Python.Exemplo02.executor": "Run",
     "Python.Exemplo08.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -381,7 +383,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734923780236</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Métodos da classe list">
+      <option name="closed" value="true" />
+      <created>1734930901257</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1734930901258</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Operador in">
+      <option name="closed" value="true" />
+      <created>1734931138378</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1734931138378</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -396,8 +414,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Exercício Resolvido 4.2" />
-    <MESSAGE value="Exercício Resolvido 4.3" />
     <MESSAGE value="Exercício Resolvido 4.4" />
     <MESSAGE value="Comando de laço" />
     <MESSAGE value="Laço com comando continue" />
@@ -421,6 +437,8 @@
     <MESSAGE value="Eliminação de elementos usando a função del" />
     <MESSAGE value="Fatiamento de listas" />
     <MESSAGE value="Cópia de lista usando fatiamento" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cópia de lista usando fatiamento" />
+    <MESSAGE value="Métodos da classe list" />
+    <MESSAGE value="Operador in" />
+    <option name="LAST_COMMIT_MESSAGE" value="Operador in" />
   </component>
 </project>
