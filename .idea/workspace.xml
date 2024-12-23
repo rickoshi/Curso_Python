@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Comando for - conceito">
-      <change afterPath="$PROJECT_DIR$/07. Objetos compostos de Python - Objetos sequenciais/Cap07_Exemplo13.py" afterDir="false" />
+    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Concatenação com &quot;+&quot;">
+      <change afterPath="$PROJECT_DIR$/07. Objetos compostos de Python - Objetos sequenciais/Cap07_Exemplo15.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +71,7 @@
     "Python.Cap07_Exemplo11.executor": "Run",
     "Python.Cap07_Exemplo12.executor": "Run",
     "Python.Cap07_Exemplo13.executor": "Run",
+    "Python.Cap07_Exemplo14.executor": "Run",
     "Python.Cap07_ExercicioResolvido01.executor": "Run",
     "Python.Cap07_ExercicioResolvido02.executor": "Run",
     "Python.Exemplo02.executor": "Run",
@@ -425,7 +426,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734984762970</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Uso combinado de range e for">
+      <option name="closed" value="true" />
+      <created>1734984988736</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1734984988736</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Concatenação com &quot;+&quot;">
+      <option name="closed" value="true" />
+      <created>1734985184613</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1734985184613</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -440,8 +457,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Laço com comando break" />
-    <MESSAGE value="Cláusula else do comando while" />
     <MESSAGE value="Exercício Resolvido 5.1" />
     <MESSAGE value="Exercício Resolvido 5.2" />
     <MESSAGE value="Exercício Resolvido 5.3" />
@@ -465,6 +480,8 @@
     <MESSAGE value="Exercício Resolvido 7.1" />
     <MESSAGE value="Classe range e Exercício Resolvido 7.2" />
     <MESSAGE value="Comando for - conceito" />
-    <option name="LAST_COMMIT_MESSAGE" value="Comando for - conceito" />
+    <MESSAGE value="Uso combinado de range e for" />
+    <MESSAGE value="Concatenação com &quot;+&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Concatenação com &quot;+&quot;" />
   </component>
 </project>
