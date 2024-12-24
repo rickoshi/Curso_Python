@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Exercício Resolvido 7.7">
-      <change afterPath="$PROJECT_DIR$/07. Objetos compostos de Python - Objetos sequenciais/Cap07_Exemplo16.py" afterDir="false" />
+    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Tuplas - conceito">
+      <change afterPath="$PROJECT_DIR$/07. Objetos compostos de Python - Objetos sequenciais/Cap07_Exemplo17.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +75,7 @@
     "Python.Cap07_Exemplo14.executor": "Run",
     "Python.Cap07_Exemplo15.executor": "Run",
     "Python.Cap07_Exemplo16.executor": "Run",
+    "Python.Cap07_Exemplo17.executor": "Run",
     "Python.Cap07_ExercicioResolvido01.executor": "Run",
     "Python.Cap07_ExercicioResolvido02.executor": "Run",
     "Python.Cap07_ExercicioResolvido03.executor": "Run",
@@ -104,14 +105,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733982456410</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Atualizado arquivos conflitantes">
-      <option name="closed" value="true" />
-      <created>1733982556788</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1733982556788</updated>
     </task>
     <task id="LOCAL-00002" summary="Atualizado arquivos conflitantes">
       <option name="closed" value="true" />
@@ -497,7 +490,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735001457277</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Tuplas - conceito">
+      <option name="closed" value="true" />
+      <created>1735002600016</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1735002600017</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -512,7 +513,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Erro da classe IndexError" />
     <MESSAGE value="Tratamento de Exceções - básico" />
     <MESSAGE value="Tratamento de Exceções - completo" />
     <MESSAGE value="Listas - Conceito" />
@@ -537,6 +537,7 @@
     <MESSAGE value="Exercício resolvido 7.5" />
     <MESSAGE value="Exercício resolvido 7.6" />
     <MESSAGE value="Exercício Resolvido 7.7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercício Resolvido 7.7" />
+    <MESSAGE value="Tuplas - conceito" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tuplas - conceito" />
   </component>
 </project>
