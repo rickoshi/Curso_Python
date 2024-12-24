@@ -4,8 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Características comuns às classes de sequências e Exercício Resolvido 7.8">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Renomeado o diretório">
+      <change beforePath="$PROJECT_DIR$/2. Classes e Objetos/Exemplo01.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. Classes e Objetos/Cap02_Exemplo01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Classes e Objetos/Exemplo02.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. Classes e Objetos/Cap02_Exemplo02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Classes e Objetos/Exemplo03.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. Classes e Objetos/Cap02_Exemplo03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Classes e Objetos/Exemplo04.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. Classes e Objetos/Cap02_Exemplo04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Classes e Objetos/Exemplo05.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. Classes e Objetos/Cap02_Exemplo05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Classes e Objetos/Exemplo06.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. Classes e Objetos/Cap02_Exemplo06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Classes e Objetos/Exemplo07.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. Classes e Objetos/Cap02_Exemplo07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Classes e Objetos/Exemplo08.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. Classes e Objetos/Cap02_Exemplo08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Classes e Objetos/Exemplo09.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. Classes e Objetos/Cap02_Exemplo09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Classes e Objetos/Exemplo10.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. Classes e Objetos/Cap02_Exemplo10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Classes e Objetos/Extra01.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. Classes e Objetos/Cap02_ExemploExtra01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,14 +117,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733982456410</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Condições simples">
-      <option name="closed" value="true" />
-      <created>1734146583419</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1734146583419</updated>
     </task>
     <task id="LOCAL-00007" summary="Condições compostas mistas">
       <option name="closed" value="true" />
@@ -500,7 +502,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735012461546</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Renomeado o diretório">
+      <option name="closed" value="true" />
+      <created>1735013070893</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1735013070893</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -515,7 +525,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Criação de uma lista do zero" />
     <MESSAGE value="Formas de indexação" />
     <MESSAGE value="Indexação com números negativos" />
     <MESSAGE value="Indexação fora dos limites" />
@@ -540,6 +549,7 @@
     <MESSAGE value="String - conceito e métodos da classe string" />
     <MESSAGE value="String - método .split()" />
     <MESSAGE value="Características comuns às classes de sequências e Exercício Resolvido 7.8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Características comuns às classes de sequências e Exercício Resolvido 7.8" />
+    <MESSAGE value="Renomeado o diretório" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renomeado o diretório" />
   </component>
 </project>
