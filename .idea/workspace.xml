@@ -4,18 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Renomeado o diretório">
-      <change beforePath="$PROJECT_DIR$/2. Classes e Objetos/Exemplo01.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. Classes e Objetos/Cap02_Exemplo01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. Classes e Objetos/Exemplo02.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. Classes e Objetos/Cap02_Exemplo02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. Classes e Objetos/Exemplo03.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. Classes e Objetos/Cap02_Exemplo03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. Classes e Objetos/Exemplo04.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. Classes e Objetos/Cap02_Exemplo04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. Classes e Objetos/Exemplo05.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. Classes e Objetos/Cap02_Exemplo05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. Classes e Objetos/Exemplo06.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. Classes e Objetos/Cap02_Exemplo06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. Classes e Objetos/Exemplo07.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. Classes e Objetos/Cap02_Exemplo07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. Classes e Objetos/Exemplo08.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. Classes e Objetos/Cap02_Exemplo08.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. Classes e Objetos/Exemplo09.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. Classes e Objetos/Cap02_Exemplo09.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. Classes e Objetos/Exemplo10.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. Classes e Objetos/Cap02_Exemplo10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. Classes e Objetos/Extra01.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. Classes e Objetos/Cap02_ExemploExtra01.py" afterDir="false" />
+    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="A função input - parte 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. Comandos de Saída e Entrada/Cap03_Exemplo05.py" beforeDir="false" afterPath="$PROJECT_DIR$/03. Comandos de Saída e Entrada/Cap03_Exemplo05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. Comandos de Saída e Entrada/Cap03_Exemplo06.py" beforeDir="false" afterPath="$PROJECT_DIR$/03. Comandos de Saída e Entrada/Cap03_Exemplo06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. Comandos de Saída e Entrada/Cap03_Exemplo07.py" beforeDir="false" afterPath="$PROJECT_DIR$/03. Comandos de Saída e Entrada/Cap03_Exemplo07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. Comandos de Saída e Entrada/Cap03_ExemploExtra02.py" beforeDir="false" afterPath="$PROJECT_DIR$/03. Comandos de Saída e Entrada/Cap03_ExemploExtra02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,142 +111,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733982456410</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Condições compostas mistas">
-      <option name="closed" value="true" />
-      <created>1734147543363</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1734147543363</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Comando condicional - forma completa">
-      <option name="closed" value="true" />
-      <created>1734149237858</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1734149237858</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Comandos condicionais aninhados">
-      <option name="closed" value="true" />
-      <created>1734150036330</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1734150036330</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Exercício Resolvido 4.1">
-      <option name="closed" value="true" />
-      <created>1734740673551</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1734740673551</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Exercício Resolvido 4.2">
-      <option name="closed" value="true" />
-      <created>1734740920397</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1734740920397</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Exercício Resolvido 4.3">
-      <option name="closed" value="true" />
-      <created>1734741615773</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1734741615773</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Exercício Resolvido 4.4">
-      <option name="closed" value="true" />
-      <created>1734742138461</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1734742138461</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Comando de laço">
-      <option name="closed" value="true" />
-      <created>1734743283857</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1734743283857</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Laço com comando continue">
-      <option name="closed" value="true" />
-      <created>1734744380421</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1734744380421</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Laço com comando break">
-      <option name="closed" value="true" />
-      <created>1734744746894</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1734744746894</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Cláusula else do comando while">
-      <option name="closed" value="true" />
-      <created>1734745317485</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1734745317485</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Exercício Resolvido 5.1">
-      <option name="closed" value="true" />
-      <created>1734745704166</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1734745704166</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Exercício Resolvido 5.2">
-      <option name="closed" value="true" />
-      <created>1734746041489</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1734746041489</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Exercício Resolvido 5.3">
-      <option name="closed" value="true" />
-      <created>1734746457215</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1734746457215</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Exercício Resolvido 5.4">
-      <option name="closed" value="true" />
-      <created>1734746875055</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1734746875055</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Exercício Resolvido 5.5">
-      <option name="closed" value="true" />
-      <created>1734747516113</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1734747516113</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Erro da classe ValueError">
-      <option name="closed" value="true" />
-      <created>1734840842705</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1734840842705</updated>
     </task>
     <task id="LOCAL-00024" summary="Erro da classe IndexError">
       <option name="closed" value="true" />
@@ -510,7 +368,143 @@
       <option name="project" value="LOCAL" />
       <updated>1735013070893</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Armazenamento de dados em programas">
+      <option name="closed" value="true" />
+      <created>1735013365729</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1735013365729</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Classes e Objetos em Python">
+      <option name="closed" value="true" />
+      <created>1735013397028</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1735013397028</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Objetos de Classes Simples">
+      <option name="closed" value="true" />
+      <created>1735013406336</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1735013406336</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Comando de Atribuição">
+      <option name="closed" value="true" />
+      <created>1735013420512</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1735013420512</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Id dos objetos Python - parte 1">
+      <option name="closed" value="true" />
+      <created>1735013430579</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1735013430579</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Id dos objetos Python - parte 2">
+      <option name="closed" value="true" />
+      <created>1735013440033</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1735013440033</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Modelo de Dados de Python">
+      <option name="closed" value="true" />
+      <created>1735013465050</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1735013465050</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Operadores Aritméticos">
+      <option name="closed" value="true" />
+      <created>1735013476404</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1735013476404</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Comando de Atribuição Incremental">
+      <option name="closed" value="true" />
+      <created>1735013486524</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1735013486524</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Funções matemáticas">
+      <option name="closed" value="true" />
+      <created>1735013495826</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1735013495826</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Funções matemáticas">
+      <option name="closed" value="true" />
+      <created>1735013505279</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1735013505279</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Função print - parte 1">
+      <option name="closed" value="true" />
+      <created>1735013782563</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1735013782563</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Função print - parte 2">
+      <option name="closed" value="true" />
+      <created>1735013793665</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1735013793665</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Formatação usando o método .format()">
+      <option name="closed" value="true" />
+      <created>1735013805439</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1735013805439</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Formatação Usando f-string">
+      <option name="closed" value="true" />
+      <created>1735013826139</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1735013826139</updated>
+    </task>
+    <task id="LOCAL-00071" summary="O que é o \n?">
+      <option name="closed" value="true" />
+      <created>1735013863013</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1735013863013</updated>
+    </task>
+    <task id="LOCAL-00072" summary="A função input - parte 1">
+      <option name="closed" value="true" />
+      <created>1735013884371</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1735013884371</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -525,22 +519,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Formas de indexação" />
-    <MESSAGE value="Indexação com números negativos" />
-    <MESSAGE value="Indexação fora dos limites" />
-    <MESSAGE value="Eliminação de elementos usando a função del" />
-    <MESSAGE value="Fatiamento de listas" />
-    <MESSAGE value="Cópia de lista usando fatiamento" />
-    <MESSAGE value="Métodos da classe list" />
-    <MESSAGE value="Operador in" />
-    <MESSAGE value="Exercício Resolvido 7.1" />
-    <MESSAGE value="Classe range e Exercício Resolvido 7.2" />
-    <MESSAGE value="Comando for - conceito" />
-    <MESSAGE value="Uso combinado de range e for" />
-    <MESSAGE value="Concatenação com &quot;+&quot;" />
-    <MESSAGE value="Multiplicação com &quot;*&quot;" />
-    <MESSAGE value="Iterações em listas com o comando for - Exercício resolvido 7.3" />
-    <MESSAGE value="Exercício resolvido 7.4" />
     <MESSAGE value="Exercício resolvido 7.5" />
     <MESSAGE value="Exercício resolvido 7.6" />
     <MESSAGE value="Exercício Resolvido 7.7" />
@@ -550,6 +528,22 @@
     <MESSAGE value="String - método .split()" />
     <MESSAGE value="Características comuns às classes de sequências e Exercício Resolvido 7.8" />
     <MESSAGE value="Renomeado o diretório" />
-    <option name="LAST_COMMIT_MESSAGE" value="Renomeado o diretório" />
+    <MESSAGE value="Armazenamento de dados em programas" />
+    <MESSAGE value="Classes e Objetos em Python" />
+    <MESSAGE value="Objetos de Classes Simples" />
+    <MESSAGE value="Comando de Atribuição" />
+    <MESSAGE value="Id dos objetos Python - parte 1" />
+    <MESSAGE value="Id dos objetos Python - parte 2" />
+    <MESSAGE value="Modelo de Dados de Python" />
+    <MESSAGE value="Operadores Aritméticos" />
+    <MESSAGE value="Comando de Atribuição Incremental" />
+    <MESSAGE value="Funções matemáticas" />
+    <MESSAGE value="Função print - parte 1" />
+    <MESSAGE value="Função print - parte 2" />
+    <MESSAGE value="Formatação usando o método .format()" />
+    <MESSAGE value="Formatação Usando f-string" />
+    <MESSAGE value="O que é o \n?" />
+    <MESSAGE value="A função input - parte 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="A função input - parte 1" />
   </component>
 </project>
