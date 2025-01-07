@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Comando match-case">
-      <change afterPath="$PROJECT_DIR$/08. Comandos Condicionais - Aprofundamento/Cap08_ExemploResolvido01.py" afterDir="false" />
+    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Exercício resolvido 8.1">
+      <change afterPath="$PROJECT_DIR$/08. Comandos Condicionais - Aprofundamento/Cap08_Exemplo03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +86,7 @@
     "Python.Cap07_ExercicioResolvido07.executor": "Run",
     "Python.Cap07_ExercicioResolvido08.executor": "Run",
     "Python.Cap08_Exemplo01.executor": "Run",
+    "Python.Cap08_Exemplo03.executor": "Run",
     "Python.Cap08_ExemploResolvido01.executor": "Run",
     "Python.Exemplo02.executor": "Run",
     "Python.Exemplo08.executor": "Run",
@@ -109,14 +111,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733982456410</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Criação de uma lista do zero">
-      <option name="closed" value="true" />
-      <created>1734900878939</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1734900878939</updated>
     </task>
     <task id="LOCAL-00030" summary="Criação de uma lista do zero">
       <option name="closed" value="true" />
@@ -502,7 +496,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736141389615</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="Exercício resolvido 8.1">
+      <option name="closed" value="true" />
+      <created>1736141885206</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1736141885206</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -517,7 +519,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Conversões entre tuplas e listas" />
     <MESSAGE value="String - conceito e métodos da classe string" />
     <MESSAGE value="String - método .split()" />
     <MESSAGE value="Características comuns às classes de sequências e Exercício Resolvido 7.8" />
@@ -542,6 +543,7 @@
     <MESSAGE value="Funções de conversão de objetos de classes simples" />
     <MESSAGE value="Uso conjunto do input com funções de conversão" />
     <MESSAGE value="Comando match-case" />
-    <option name="LAST_COMMIT_MESSAGE" value="Comando match-case" />
+    <MESSAGE value="Exercício resolvido 8.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício resolvido 8.1" />
   </component>
 </project>
