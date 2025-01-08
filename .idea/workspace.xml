@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/09. Conjuntos/Cap09_Exemplo01.py" afterDir="false" />
+    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Classe set - conjuntos em Python">
+      <change afterPath="$PROJECT_DIR$/09. Conjuntos/Cap09_Exemplo02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,6 +91,7 @@
     "Python.Cap08_Exemplo05.executor": "Run",
     "Python.Cap08_ExemploResolvido01.executor": "Run",
     "Python.Cap09_Exemplo01.executor": "Run",
+    "Python.Cap09_Exemplo02.executor": "Run",
     "Python.Exemplo02.executor": "Run",
     "Python.Exemplo08.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -114,14 +115,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733982456410</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Indexação fora dos limites">
-      <option name="closed" value="true" />
-      <created>1734901528332</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1734901528332</updated>
     </task>
     <task id="LOCAL-00034" summary="Eliminação de elementos usando a função del">
       <option name="closed" value="true" />
@@ -507,7 +500,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736243831664</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="Classe set - conjuntos em Python">
+      <option name="closed" value="true" />
+      <created>1736334987027</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1736334987027</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -522,7 +523,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Renomeado o diretório" />
     <MESSAGE value="Armazenamento de dados em programas" />
     <MESSAGE value="Classes e Objetos em Python" />
     <MESSAGE value="Objetos de Classes Simples" />
@@ -547,6 +547,7 @@
     <MESSAGE value="Comando if de única linha" />
     <MESSAGE value="Comando if inline - else obrigatório" />
     <MESSAGE value="Retorno de valor com o if inline" />
-    <option name="LAST_COMMIT_MESSAGE" value="Retorno de valor com o if inline" />
+    <MESSAGE value="Classe set - conjuntos em Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classe set - conjuntos em Python" />
   </component>
 </project>
