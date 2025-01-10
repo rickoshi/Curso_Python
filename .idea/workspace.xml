@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Classe set - conjuntos em Python">
-      <change afterPath="$PROJECT_DIR$/09. Conjuntos/Cap09_Exemplo02.py" afterDir="false" />
+    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Classe set - modos de criação">
+      <change afterPath="$PROJECT_DIR$/09. Conjuntos/Cap09_Exemplo03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,6 +92,7 @@
     "Python.Cap08_ExemploResolvido01.executor": "Run",
     "Python.Cap09_Exemplo01.executor": "Run",
     "Python.Cap09_Exemplo02.executor": "Run",
+    "Python.Cap09_Exemplo03.executor": "Run",
     "Python.Exemplo02.executor": "Run",
     "Python.Exemplo08.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -115,22 +116,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733982456410</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Eliminação de elementos usando a função del">
-      <option name="closed" value="true" />
-      <created>1734901729211</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1734901729211</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Fatiamento de listas">
-      <option name="closed" value="true" />
-      <created>1734922884593</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1734922884593</updated>
     </task>
     <task id="LOCAL-00036" summary="Cópia de lista usando fatiamento">
       <option name="closed" value="true" />
@@ -508,7 +493,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736334987027</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="Classe set - modos de criação">
+      <option name="closed" value="true" />
+      <created>1736336057343</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1736336057343</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Classe set - modos de criação">
+      <option name="closed" value="true" />
+      <created>1736502563948</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1736502563948</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -523,7 +524,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Armazenamento de dados em programas" />
     <MESSAGE value="Classes e Objetos em Python" />
     <MESSAGE value="Objetos de Classes Simples" />
     <MESSAGE value="Comando de Atribuição" />
@@ -548,6 +548,7 @@
     <MESSAGE value="Comando if inline - else obrigatório" />
     <MESSAGE value="Retorno de valor com o if inline" />
     <MESSAGE value="Classe set - conjuntos em Python" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classe set - conjuntos em Python" />
+    <MESSAGE value="Classe set - modos de criação" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classe set - modos de criação" />
   </component>
 </project>
