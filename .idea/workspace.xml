@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Classe set - modos de criação">
-      <change afterPath="$PROJECT_DIR$/09. Conjuntos/Cap09_Exemplo03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Hash e classes hashable">
+      <change afterPath="$PROJECT_DIR$/09. Conjuntos/Cap09_Exemplo04.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +92,7 @@
     "Python.Cap09_Exemplo01.executor": "Run",
     "Python.Cap09_Exemplo02.executor": "Run",
     "Python.Cap09_Exemplo03.executor": "Run",
+    "Python.Cap09_Exemplo04.executor": "Run",
     "Python.Exemplo02.executor": "Run",
     "Python.Exemplo08.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -116,14 +116,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733982456410</updated>
-    </task>
-    <task id="LOCAL-00036" summary="Cópia de lista usando fatiamento">
-      <option name="closed" value="true" />
-      <created>1734923780236</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1734923780236</updated>
     </task>
     <task id="LOCAL-00037" summary="Métodos da classe list">
       <option name="closed" value="true" />
@@ -509,7 +501,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736502563948</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Hash e classes hashable">
+      <option name="closed" value="true" />
+      <created>1736502922050</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1736502922050</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -524,7 +524,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Classes e Objetos em Python" />
     <MESSAGE value="Objetos de Classes Simples" />
     <MESSAGE value="Comando de Atribuição" />
     <MESSAGE value="Id dos objetos Python - parte 1" />
@@ -549,6 +548,7 @@
     <MESSAGE value="Retorno de valor com o if inline" />
     <MESSAGE value="Classe set - conjuntos em Python" />
     <MESSAGE value="Classe set - modos de criação" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classe set - modos de criação" />
+    <MESSAGE value="Hash e classes hashable" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hash e classes hashable" />
   </component>
 </project>
