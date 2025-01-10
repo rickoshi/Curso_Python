@@ -14,7 +14,7 @@ c = set(tupla)
 print(c)        # {33, 45, 14, 50, 26}
 
 # Criação do conjunto a partir de lista
-lista = (26, 15, 49, 65, 49)
+lista = [26, 15, 49, 65, 49]
 c = set(lista)
 print(c)        # {65, 49, 26, 15}
 
