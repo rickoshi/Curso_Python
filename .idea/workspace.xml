@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Exercício resolvido 9.1">
-      <change afterPath="$PROJECT_DIR$/09. Conjuntos/Cap09_ExercicioResolvido02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Exercício resolvido 9.2">
+      <change afterPath="$PROJECT_DIR$/09. Conjuntos/Cap09_ExercicioResolvido03.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +98,7 @@
     "Python.Cap09_Exemplo07.executor": "Run",
     "Python.Cap09_ExercicioResolvido01.executor": "Run",
     "Python.Cap09_ExercicioResolvido02.executor": "Run",
+    "Python.Cap09_ExercicioResolvido03.executor": "Run",
     "Python.Exemplo02.executor": "Run",
     "Python.Exemplo08.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -122,14 +122,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733982456410</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Uso combinado de range e for">
-      <option name="closed" value="true" />
-      <created>1734984988736</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1734984988736</updated>
     </task>
     <task id="LOCAL-00043" summary="Concatenação com &quot;+&quot;">
       <option name="closed" value="true" />
@@ -515,7 +507,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736844537873</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="Exercício resolvido 9.2">
+      <option name="closed" value="true" />
+      <created>1736902276632</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1736902276632</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -530,7 +530,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Operadores Aritméticos" />
     <MESSAGE value="Comando de Atribuição Incremental" />
     <MESSAGE value="Funções matemáticas" />
     <MESSAGE value="Função print - parte 1" />
@@ -555,6 +554,7 @@
     <MESSAGE value="Operações com conjuntos" />
     <MESSAGE value="Conjuntos usados como iteradores" />
     <MESSAGE value="Exercício resolvido 9.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercício resolvido 9.1" />
+    <MESSAGE value="Exercício resolvido 9.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício resolvido 9.2" />
   </component>
 </project>
