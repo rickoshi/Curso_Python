@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="operações com a classe frozenset">
-      <change afterPath="$PROJECT_DIR$/10. Dicionários/Cap10_Exemplo01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Dicionários - classe dict">
+      <change afterPath="$PROJECT_DIR$/10. Dicionários/Cap10_Exemplo02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +102,7 @@
     "Python.Cap09_ExercicioResolvido02.executor": "Run",
     "Python.Cap09_ExercicioResolvido03.executor": "Run",
     "Python.Cap10_Exemplo01.executor": "Run",
+    "Python.Cap10_Exemplo02.executor": "Run",
     "Python.Exemplo02.executor": "Run",
     "Python.Exemplo08.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -126,14 +126,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733982456410</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Exercício resolvido 7.4">
-      <option name="closed" value="true" />
-      <created>1734996025595</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1734996025595</updated>
     </task>
     <task id="LOCAL-00047" summary="Exercício resolvido 7.5">
       <option name="closed" value="true" />
@@ -519,7 +511,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736903641179</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="Dicionários - classe dict">
+      <option name="closed" value="true" />
+      <created>1736915039983</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1736915039983</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -534,7 +534,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Função print - parte 2" />
     <MESSAGE value="Formatação usando o método .format()" />
     <MESSAGE value="Formatação Usando f-string" />
     <MESSAGE value="O que é o \n?" />
@@ -559,6 +558,7 @@
     <MESSAGE value="Exercício resolvido 9.3" />
     <MESSAGE value="A classe frozenset" />
     <MESSAGE value="operações com a classe frozenset" />
-    <option name="LAST_COMMIT_MESSAGE" value="operações com a classe frozenset" />
+    <MESSAGE value="Dicionários - classe dict" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dicionários - classe dict" />
   </component>
 </project>
