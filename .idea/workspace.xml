@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Dicionários - classe dict">
-      <change afterPath="$PROJECT_DIR$/10. Dicionários/Cap10_Exemplo02.py" afterDir="false" />
+    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Dicionários - inclusão de elementos">
+      <change afterPath="$PROJECT_DIR$/10. Dicionários/Cap10_Exemplo03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +104,7 @@
     "Python.Cap09_ExercicioResolvido03.executor": "Run",
     "Python.Cap10_Exemplo01.executor": "Run",
     "Python.Cap10_Exemplo02.executor": "Run",
+    "Python.Cap10_Exemplo03.executor": "Run",
     "Python.Exemplo02.executor": "Run",
     "Python.Exemplo08.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -126,14 +128,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733982456410</updated>
-    </task>
-    <task id="LOCAL-00047" summary="Exercício resolvido 7.5">
-      <option name="closed" value="true" />
-      <created>1734997557743</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1734997557743</updated>
     </task>
     <task id="LOCAL-00048" summary="Exercício resolvido 7.6">
       <option name="closed" value="true" />
@@ -519,7 +513,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736915039983</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="Dicionários - inclusão de elementos">
+      <option name="closed" value="true" />
+      <created>1736915445284</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1736915445284</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -534,7 +536,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Formatação usando o método .format()" />
     <MESSAGE value="Formatação Usando f-string" />
     <MESSAGE value="O que é o \n?" />
     <MESSAGE value="A função input - parte 1" />
@@ -559,6 +560,7 @@
     <MESSAGE value="A classe frozenset" />
     <MESSAGE value="operações com a classe frozenset" />
     <MESSAGE value="Dicionários - classe dict" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dicionários - classe dict" />
+    <MESSAGE value="Dicionários - inclusão de elementos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dicionários - inclusão de elementos" />
   </component>
 </project>
