@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Dicionários - iteração sobre os valores dos elementos">
-      <change afterPath="$PROJECT_DIR$/10. Dicionários/Cap10_Exemplo07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10. Dicionários/Cap10_Exemplo08.py" afterDir="false" />
+    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Dicionários - iteração conjunta chave-valor">
+      <change afterPath="$PROJECT_DIR$/10. Dicionários/Cap10_ExercicioResolvido01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,6 +110,7 @@
     "Python.Cap10_Exemplo06.executor": "Run",
     "Python.Cap10_Exemplo07.executor": "Run",
     "Python.Cap10_Exemplo08.executor": "Run",
+    "Python.Cap10_ExercicioResolvido01.executor": "Run",
     "Python.Exemplo02.executor": "Run",
     "Python.Exemplo08.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -134,14 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733982456410</updated>
-    </task>
-    <task id="LOCAL-00052" summary="String - conceito e métodos da classe string">
-      <option name="closed" value="true" />
-      <created>1735011232876</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1735011232876</updated>
     </task>
     <task id="LOCAL-00053" summary="String - método .split()">
       <option name="closed" value="true" />
@@ -527,7 +519,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736968392631</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="Dicionários - iteração conjunta chave-valor">
+      <option name="closed" value="true" />
+      <created>1736983619847</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1736983619847</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -542,7 +542,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Uso conjunto do input com funções de conversão" />
     <MESSAGE value="Comando match-case" />
     <MESSAGE value="Exercício resolvido 8.1" />
     <MESSAGE value="Comando if de única linha" />
@@ -567,6 +566,7 @@
     <MESSAGE value="Dicionários - iteração com as chaves dos elementos" />
     <MESSAGE value="Dicionários - iteração sobre as chaves dos elementos" />
     <MESSAGE value="Dicionários - iteração sobre os valores dos elementos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dicionários - iteração sobre os valores dos elementos" />
+    <MESSAGE value="Dicionários - iteração conjunta chave-valor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dicionários - iteração conjunta chave-valor" />
   </component>
 </project>
