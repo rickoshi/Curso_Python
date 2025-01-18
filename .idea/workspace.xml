@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Dicionários - iteração conjunta chave-valor">
-      <change afterPath="$PROJECT_DIR$/10. Dicionários/Cap10_ExercicioResolvido01.py" afterDir="false" />
+    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Comentário sobre os Exercícios resolvidos 10.3 e 10.4">
+      <change afterPath="$PROJECT_DIR$/10. Dicionários/Cap10_ExercicioResolvido05.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,6 +111,10 @@
     "Python.Cap10_Exemplo07.executor": "Run",
     "Python.Cap10_Exemplo08.executor": "Run",
     "Python.Cap10_ExercicioResolvido01.executor": "Run",
+    "Python.Cap10_ExercicioResolvido02.executor": "Run",
+    "Python.Cap10_ExercicioResolvido03.executor": "Run",
+    "Python.Cap10_ExercicioResolvido04.executor": "Run",
+    "Python.Cap10_ExercicioResolvido05.executor": "Run",
     "Python.Exemplo02.executor": "Run",
     "Python.Exemplo08.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -134,46 +138,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733982456410</updated>
-    </task>
-    <task id="LOCAL-00053" summary="String - método .split()">
-      <option name="closed" value="true" />
-      <created>1735011828692</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1735011828692</updated>
-    </task>
-    <task id="LOCAL-00054" summary="Características comuns às classes de sequências e Exercício Resolvido 7.8">
-      <option name="closed" value="true" />
-      <created>1735012461546</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1735012461546</updated>
-    </task>
-    <task id="LOCAL-00055" summary="Renomeado o diretório">
-      <option name="closed" value="true" />
-      <created>1735013070893</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1735013070893</updated>
-    </task>
-    <task id="LOCAL-00056" summary="Armazenamento de dados em programas">
-      <option name="closed" value="true" />
-      <created>1735013365729</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1735013365729</updated>
-    </task>
-    <task id="LOCAL-00057" summary="Classes e Objetos em Python">
-      <option name="closed" value="true" />
-      <created>1735013397028</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1735013397028</updated>
     </task>
     <task id="LOCAL-00058" summary="Objetos de Classes Simples">
       <option name="closed" value="true" />
@@ -527,7 +491,47 @@
       <option name="project" value="LOCAL" />
       <updated>1736983619847</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="Exercício resolvido 10.1">
+      <option name="closed" value="true" />
+      <created>1737090285358</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1737090285358</updated>
+    </task>
+    <task id="LOCAL-00103" summary="Exercício resolvido 10.2">
+      <option name="closed" value="true" />
+      <created>1737093559747</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1737093559747</updated>
+    </task>
+    <task id="LOCAL-00104" summary="Exercício resolvido 10.3">
+      <option name="closed" value="true" />
+      <created>1737096045690</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1737096045690</updated>
+    </task>
+    <task id="LOCAL-00105" summary="Exercício resolvido 10.4">
+      <option name="closed" value="true" />
+      <created>1737098318265</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1737098318265</updated>
+    </task>
+    <task id="LOCAL-00106" summary="Comentário sobre os Exercícios resolvidos 10.3 e 10.4">
+      <option name="closed" value="true" />
+      <created>1737098967639</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1737098967639</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -542,11 +546,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Comando match-case" />
-    <MESSAGE value="Exercício resolvido 8.1" />
-    <MESSAGE value="Comando if de única linha" />
-    <MESSAGE value="Comando if inline - else obrigatório" />
-    <MESSAGE value="Retorno de valor com o if inline" />
     <MESSAGE value="Classe set - conjuntos em Python" />
     <MESSAGE value="Classe set - modos de criação" />
     <MESSAGE value="Hash e classes hashable" />
@@ -567,6 +566,11 @@
     <MESSAGE value="Dicionários - iteração sobre as chaves dos elementos" />
     <MESSAGE value="Dicionários - iteração sobre os valores dos elementos" />
     <MESSAGE value="Dicionários - iteração conjunta chave-valor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dicionários - iteração conjunta chave-valor" />
+    <MESSAGE value="Exercício resolvido 10.1" />
+    <MESSAGE value="Exercício resolvido 10.2" />
+    <MESSAGE value="Exercício resolvido 10.3" />
+    <MESSAGE value="Exercício resolvido 10.4" />
+    <MESSAGE value="Comentário sobre os Exercícios resolvidos 10.3 e 10.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comentário sobre os Exercícios resolvidos 10.3 e 10.4" />
   </component>
 </project>
