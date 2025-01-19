@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Exercício resolvido 10.5">
-      <change afterPath="$PROJECT_DIR$/11. Arquivos/Cap11_Exemplo01.py" afterDir="false" />
+    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Visão geral sobre arquivos">
+      <change afterPath="$PROJECT_DIR$/11. Arquivos/Cap11_ExercicioResolvido01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,95 +34,96 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Cap04_Exemplo01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap04_Exemplo02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap04_Exemplo03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap04_Exemplo04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap04_Exemplo05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap04_Exemplo06.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap04_ExercicioProposto01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap04_ExercicioResolvido02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap04_ExercicioResolvido03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap04_ExercicioResolvido04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap05_Exemplo01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap05_Exemplo02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap05_Exemplo03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap05_Exemplo04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap05_ExercicioResolvido01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap05_ExercicioResolvido02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap05_ExercicioResolvido03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap05_ExercicioResolvido04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap05_ExercicioResolvido05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap06_Exemplo01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap06_Exemplo02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap06_Exemplo03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap06_Exemplo04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap07_Exemplo01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap07_Exemplo02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap07_Exemplo03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap07_Exemplo04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap07_Exemplo05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap07_Exemplo06.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap07_Exemplo07.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap07_Exemplo08.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap07_Exemplo09.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap07_Exemplo10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap07_Exemplo11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap07_Exemplo12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap07_Exemplo13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap07_Exemplo14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap07_Exemplo15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap07_Exemplo16.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap07_Exemplo17.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap07_Exemplo18.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap07_Exemplo19.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap07_ExercicioResolvido01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap07_ExercicioResolvido02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap07_ExercicioResolvido03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap07_ExercicioResolvido05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap07_ExercicioResolvido06.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap07_ExercicioResolvido07.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap07_ExercicioResolvido08.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap08_Exemplo01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap08_Exemplo03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap08_Exemplo04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap08_Exemplo05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap08_ExemploResolvido01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap09_Exemplo01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap09_Exemplo02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap09_Exemplo03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap09_Exemplo04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap09_Exemplo05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap09_Exemplo06.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap09_Exemplo07.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap09_Exemplo08.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap09_Exemplo09.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap09_ExercicioResolvido01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap09_ExercicioResolvido02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap09_ExercicioResolvido03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap10_Exemplo01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap10_Exemplo02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap10_Exemplo03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap10_Exemplo04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap10_Exemplo05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap10_Exemplo06.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap10_Exemplo07.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap10_Exemplo08.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap10_ExercicioResolvido01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap10_ExercicioResolvido02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap10_ExercicioResolvido03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap10_ExercicioResolvido04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cap10_ExercicioResolvido05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exemplo02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exemplo08.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;L:/PycharmProjects/Curso_Python&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Cap04_Exemplo01.executor": "Run",
+    "Python.Cap04_Exemplo02.executor": "Run",
+    "Python.Cap04_Exemplo03.executor": "Run",
+    "Python.Cap04_Exemplo04.executor": "Run",
+    "Python.Cap04_Exemplo05.executor": "Run",
+    "Python.Cap04_Exemplo06.executor": "Run",
+    "Python.Cap04_ExercicioProposto01.executor": "Run",
+    "Python.Cap04_ExercicioResolvido02.executor": "Run",
+    "Python.Cap04_ExercicioResolvido03.executor": "Run",
+    "Python.Cap04_ExercicioResolvido04.executor": "Run",
+    "Python.Cap05_Exemplo01.executor": "Run",
+    "Python.Cap05_Exemplo02.executor": "Run",
+    "Python.Cap05_Exemplo03.executor": "Run",
+    "Python.Cap05_Exemplo04.executor": "Run",
+    "Python.Cap05_ExercicioResolvido01.executor": "Run",
+    "Python.Cap05_ExercicioResolvido02.executor": "Run",
+    "Python.Cap05_ExercicioResolvido03.executor": "Run",
+    "Python.Cap05_ExercicioResolvido04.executor": "Run",
+    "Python.Cap05_ExercicioResolvido05.executor": "Run",
+    "Python.Cap06_Exemplo01.executor": "Run",
+    "Python.Cap06_Exemplo02.executor": "Run",
+    "Python.Cap06_Exemplo03.executor": "Run",
+    "Python.Cap06_Exemplo04.executor": "Run",
+    "Python.Cap07_Exemplo01.executor": "Run",
+    "Python.Cap07_Exemplo02.executor": "Run",
+    "Python.Cap07_Exemplo03.executor": "Run",
+    "Python.Cap07_Exemplo04.executor": "Run",
+    "Python.Cap07_Exemplo05.executor": "Run",
+    "Python.Cap07_Exemplo06.executor": "Run",
+    "Python.Cap07_Exemplo07.executor": "Run",
+    "Python.Cap07_Exemplo08.executor": "Run",
+    "Python.Cap07_Exemplo09.executor": "Run",
+    "Python.Cap07_Exemplo10.executor": "Run",
+    "Python.Cap07_Exemplo11.executor": "Run",
+    "Python.Cap07_Exemplo12.executor": "Run",
+    "Python.Cap07_Exemplo13.executor": "Run",
+    "Python.Cap07_Exemplo14.executor": "Run",
+    "Python.Cap07_Exemplo15.executor": "Run",
+    "Python.Cap07_Exemplo16.executor": "Run",
+    "Python.Cap07_Exemplo17.executor": "Run",
+    "Python.Cap07_Exemplo18.executor": "Run",
+    "Python.Cap07_Exemplo19.executor": "Run",
+    "Python.Cap07_ExercicioResolvido01.executor": "Run",
+    "Python.Cap07_ExercicioResolvido02.executor": "Run",
+    "Python.Cap07_ExercicioResolvido03.executor": "Run",
+    "Python.Cap07_ExercicioResolvido05.executor": "Run",
+    "Python.Cap07_ExercicioResolvido06.executor": "Run",
+    "Python.Cap07_ExercicioResolvido07.executor": "Run",
+    "Python.Cap07_ExercicioResolvido08.executor": "Run",
+    "Python.Cap08_Exemplo01.executor": "Run",
+    "Python.Cap08_Exemplo03.executor": "Run",
+    "Python.Cap08_Exemplo04.executor": "Run",
+    "Python.Cap08_Exemplo05.executor": "Run",
+    "Python.Cap08_ExemploResolvido01.executor": "Run",
+    "Python.Cap09_Exemplo01.executor": "Run",
+    "Python.Cap09_Exemplo02.executor": "Run",
+    "Python.Cap09_Exemplo03.executor": "Run",
+    "Python.Cap09_Exemplo04.executor": "Run",
+    "Python.Cap09_Exemplo05.executor": "Run",
+    "Python.Cap09_Exemplo06.executor": "Run",
+    "Python.Cap09_Exemplo07.executor": "Run",
+    "Python.Cap09_Exemplo08.executor": "Run",
+    "Python.Cap09_Exemplo09.executor": "Run",
+    "Python.Cap09_ExercicioResolvido01.executor": "Run",
+    "Python.Cap09_ExercicioResolvido02.executor": "Run",
+    "Python.Cap09_ExercicioResolvido03.executor": "Run",
+    "Python.Cap10_Exemplo01.executor": "Run",
+    "Python.Cap10_Exemplo02.executor": "Run",
+    "Python.Cap10_Exemplo03.executor": "Run",
+    "Python.Cap10_Exemplo04.executor": "Run",
+    "Python.Cap10_Exemplo05.executor": "Run",
+    "Python.Cap10_Exemplo06.executor": "Run",
+    "Python.Cap10_Exemplo07.executor": "Run",
+    "Python.Cap10_Exemplo08.executor": "Run",
+    "Python.Cap10_ExercicioResolvido01.executor": "Run",
+    "Python.Cap10_ExercicioResolvido02.executor": "Run",
+    "Python.Cap10_ExercicioResolvido03.executor": "Run",
+    "Python.Cap10_ExercicioResolvido04.executor": "Run",
+    "Python.Cap10_ExercicioResolvido05.executor": "Run",
+    "Python.Cap11_ExercicioResolvido01.executor": "Run",
+    "Python.Exemplo02.executor": "Run",
+    "Python.Exemplo08.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "L:/PycharmProjects/Curso_Python"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -138,14 +139,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733982456410</updated>
-    </task>
-    <task id="LOCAL-00059" summary="Comando de Atribuição">
-      <option name="closed" value="true" />
-      <created>1735013420512</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1735013420512</updated>
     </task>
     <task id="LOCAL-00060" summary="Id dos objetos Python - parte 1">
       <option name="closed" value="true" />
@@ -531,7 +524,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737183940956</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="Visão geral sobre arquivos">
+      <option name="closed" value="true" />
+      <created>1737274984813</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1737274984813</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -546,7 +547,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Classe set - modos de criação" />
     <MESSAGE value="Hash e classes hashable" />
     <MESSAGE value="Relação entre hash e conjuntos" />
     <MESSAGE value="Métodos da classe set" />
@@ -571,6 +571,7 @@
     <MESSAGE value="Exercício resolvido 10.4" />
     <MESSAGE value="Comentário sobre os Exercícios resolvidos 10.3 e 10.4" />
     <MESSAGE value="Exercício resolvido 10.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercício resolvido 10.5" />
+    <MESSAGE value="Visão geral sobre arquivos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Visão geral sobre arquivos" />
   </component>
 </project>
