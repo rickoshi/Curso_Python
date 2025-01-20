@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Exercício resolvido 11.1">
-      <change afterPath="$PROJECT_DIR$/11. Arquivos/Cap11_ExercicioResolvido02.py" afterDir="false" />
+    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Exercício resolvido 11.2">
+      <change afterPath="$PROJECT_DIR$/11. Arquivos/Cap11_ExercicioResolvido03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,6 +117,7 @@
     "Python.Cap10_ExercicioResolvido05.executor": "Run",
     "Python.Cap11_ExercicioResolvido01.executor": "Run",
     "Python.Cap11_ExercicioResolvido02.executor": "Run",
+    "Python.Cap11_ExercicioResolvido03.executor": "Run",
     "Python.Exemplo02.executor": "Run",
     "Python.Exemplo08.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -140,14 +141,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733982456410</updated>
-    </task>
-    <task id="LOCAL-00062" summary="Modelo de Dados de Python">
-      <option name="closed" value="true" />
-      <created>1735013465050</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1735013465050</updated>
     </task>
     <task id="LOCAL-00063" summary="Operadores Aritméticos">
       <option name="closed" value="true" />
@@ -533,7 +526,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737316769773</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="Exercício resolvido 11.2">
+      <option name="closed" value="true" />
+      <created>1737331566756</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1737331566756</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -548,7 +549,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Relação entre hash e conjuntos" />
     <MESSAGE value="Métodos da classe set" />
     <MESSAGE value="Operações com conjuntos" />
     <MESSAGE value="Conjuntos usados como iteradores" />
@@ -573,6 +573,7 @@
     <MESSAGE value="Exercício resolvido 10.5" />
     <MESSAGE value="Visão geral sobre arquivos" />
     <MESSAGE value="Exercício resolvido 11.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercício resolvido 11.1" />
+    <MESSAGE value="Exercício resolvido 11.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício resolvido 11.2" />
   </component>
 </project>
