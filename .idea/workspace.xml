@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Visão geral sobre arquivos">
-      <change afterPath="$PROJECT_DIR$/11. Arquivos/Cap11_ExercicioResolvido01.py" afterDir="false" />
+    <list default="true" id="198c1aed-ea79-4e19-85e7-e63910f820c5" name="Changes" comment="Exercício resolvido 11.1">
+      <change afterPath="$PROJECT_DIR$/11. Arquivos/Cap11_ExercicioResolvido02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,6 +116,7 @@
     "Python.Cap10_ExercicioResolvido04.executor": "Run",
     "Python.Cap10_ExercicioResolvido05.executor": "Run",
     "Python.Cap11_ExercicioResolvido01.executor": "Run",
+    "Python.Cap11_ExercicioResolvido02.executor": "Run",
     "Python.Exemplo02.executor": "Run",
     "Python.Exemplo08.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -139,22 +140,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733982456410</updated>
-    </task>
-    <task id="LOCAL-00060" summary="Id dos objetos Python - parte 1">
-      <option name="closed" value="true" />
-      <created>1735013430579</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1735013430579</updated>
-    </task>
-    <task id="LOCAL-00061" summary="Id dos objetos Python - parte 2">
-      <option name="closed" value="true" />
-      <created>1735013440033</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1735013440033</updated>
     </task>
     <task id="LOCAL-00062" summary="Modelo de Dados de Python">
       <option name="closed" value="true" />
@@ -532,7 +517,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737274984813</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="Exercício resolvido 11.1">
+      <option name="closed" value="true" />
+      <created>1737316735332</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1737316735333</updated>
+    </task>
+    <task id="LOCAL-00110" summary="Exercício resolvido 11.1">
+      <option name="closed" value="true" />
+      <created>1737316769773</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1737316769773</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -547,7 +548,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Hash e classes hashable" />
     <MESSAGE value="Relação entre hash e conjuntos" />
     <MESSAGE value="Métodos da classe set" />
     <MESSAGE value="Operações com conjuntos" />
@@ -572,6 +572,7 @@
     <MESSAGE value="Comentário sobre os Exercícios resolvidos 10.3 e 10.4" />
     <MESSAGE value="Exercício resolvido 10.5" />
     <MESSAGE value="Visão geral sobre arquivos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Visão geral sobre arquivos" />
+    <MESSAGE value="Exercício resolvido 11.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício resolvido 11.1" />
   </component>
 </project>
